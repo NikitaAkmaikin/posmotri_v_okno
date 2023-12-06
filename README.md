@@ -1,4 +1,11 @@
 # posmotri_v_okno
-Проект "Посмотри в окно"
-https://github.com/NikitaAkmaikin/posmotri_v_okno
 
+
+# Проектная работа Mesto №2 на курсе Яндекс Практикум по Фронтенд-разработке
+Ссылка на курс - https://practicum.yandex.ru/frontend-developer/
+Ссылка на проект для просмотра - https://github.com/NikitaAkmaikin/posmotri_v_okno
+
+Проектная работа на применение начальных навыков CSS. Цель - реализовать верстку карточек и плавную прокрутку карточек ;
+
+1) В работе применены базовые методы CSS;
+2) реализована плавная прокрутка через overlay;
